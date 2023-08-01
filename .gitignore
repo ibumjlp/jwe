@@ -1,0 +1,9 @@
+/javascript/node_modules
+/javascript/build
+
+/javascript/package-lock.json
+/javascript/private_key.js
+/javascript/public_key.js
+
+/python/private_key.pem
+/python/public_key.pem
